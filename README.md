@@ -1,4 +1,4 @@
-# Colour-Sorting-Machine
+# Color-Sorting-Machine
 Implementation of Sorting of Red, Green, Blue and Other Colors for M & M chocolates using an Infrared(IR) sensor, a color sensor and 2 PWM signaled servo motors for sorting using Arduino Uno Development Board with a 16x2 Serial Graphic Display and Arduino IDE.
 
 Modifications can be made to the code to seperate multiple color of the color spectrum and the application may be used for other color sensing and detection applications as per need.
