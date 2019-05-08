@@ -230,7 +230,7 @@ Serial.println(BlueLong);
 digitalWrite(CSLED,LOW);
 
 /*
- * Color Sensor Values for RGB Pins
+ * Color Sensor Values for RGB Pins along with Sorting Conditions
  */
  
 if ((RedLong > 1350) && (RedLong < 1700))
