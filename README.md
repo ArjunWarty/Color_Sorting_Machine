@@ -6,3 +6,6 @@ Modifications can be made to the code to seperate multiple color of the color sp
 Code is ready to use once the hardware is built and connected to the respective pins on the board. 
 
 The time delays may vary depending on the length of the tubes used for sorting and the reaction speed and motor controls of the Servo's.
+
+The Documentation folder contain sample codes and examples for libraries created by other people and can be used as study material and reference for modification of the code. 
+

@@ -1,6 +1,15 @@
 /*********************
- *      INCLUDES
+ * 
+ *
+ *  NAME: ARJUN WARTY
+ *  DATE: MARCH 05, 2016
+ *  
+ *
  *********************/
+
+/*
+ Include Files and Libraries
+ */
  
 #include <Servo.h>
 #include <Wire.h>  
